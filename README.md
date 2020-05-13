@@ -13,5 +13,5 @@ Es probable que debas cambiar las credenciales (key) de acceso a las aplicacione
 Para ver un video de la demo, [haz clic aqui](https://www.youtube.com/watch?v=lwjicqhJpSI).
 
 ## Sobre los Speakers
-Demo creada por [Fernando Sonego](https://www.linkedin.com/in/fernando-sonego-a7378231/).
+Demo creada por [Fernando Sonego](https://www.linkedin.com/in/fernandosonego/).
 Asistencia realizada por [Pablo Di Loreto](https://www.linkedin.com/in/pablodiloreto/).
